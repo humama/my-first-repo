@@ -5,3 +5,5 @@ NPM     : 2206081755
 Kelas   : PBP F
 
 Hobi    : Tidur
+
+Jurusan : Ilmu Komputer
